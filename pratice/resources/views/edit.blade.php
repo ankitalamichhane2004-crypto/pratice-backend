@@ -95,7 +95,6 @@
     }
   </style>
 </head>
-
 <body>
 
   <div class="container">
@@ -136,7 +135,7 @@
 
       <tbody>
         <tr>
-          <td>Welcome to Our Bakery Academy</td>
+          <td>Welcome to Our Bakery Academy..</td>
           <td>Build professional baking skills with hands-on practice and expert support.</td>
           <td>Contact Us</td>
           <td>
